@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duclairdeugoue
 - 👀 I’m interested in Web programming
-- 🌱 I’m currently learning Ecmascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with experts in the field 
 - 📫 How to reach me ? Just email me 
 
