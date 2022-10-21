@@ -17,23 +17,12 @@ I'am a Cameroonian and also a Junior Web Developer with some years of experience
 - Bootstrap 3,4,5
 - Angular 14
 - Django 4
+- Springboot
 
 ## Social media links
 
-- https://twitter.com/duclairdeugoue
-- https://facebook.com/duclair.deugoue
+- ### [Twitter](https://twitter.com/duclairdeugoue)
 
-## Activities
-<span>
-  
+- ### [Facebook](https://facebook.com/duclair.deugoue)
+
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
-</span>
-
-<span>
-  
-![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
-</span>
-
-
-
-
