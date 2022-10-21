@@ -28,8 +28,9 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue)  
+Test | Test 2
+-----| -----
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue) |  ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical) 
 
 
 
