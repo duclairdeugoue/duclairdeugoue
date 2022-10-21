@@ -1,6 +1,6 @@
-# Hi there am Deugoue 👋
+# Hi there am duclairdeugoue 👋
 
-I'am Duclair from Cameroon, and a Junior Web Developer with few years of experience. I am currently working on Django Framework for building Backend applications and Web APIs. 
+I'am Cameroonian, and also Junior Web Developer with some years of experience. I am currently working on Django Framework for building Backend applications and Web APIs. 
 
 ## Programming Languages
 - HTML
@@ -19,6 +19,8 @@ I'am Duclair from Cameroon, and a Junior Web Developer with few years of experie
 ## Social media links
 - https://twitter.com/duclairdeugoue
 - https://facebook.com/duclairdeugoue
+
+## 
 
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
 
