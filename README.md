@@ -1,6 +1,5 @@
 ### Hi there am duclardeugoue👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Facebook](https://facebook.com/duclairdeugoue)
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... Like Animes and Series
--->
+
