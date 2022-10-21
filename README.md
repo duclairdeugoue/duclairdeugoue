@@ -34,10 +34,3 @@ Statistics | Languages
 -----------| -----
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclairdeugoue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
-
