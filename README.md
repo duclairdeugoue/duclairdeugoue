@@ -18,11 +18,16 @@ I'am Cameroonian, and also Junior Web Developer with some years of experience. I
 
 ## Social media links
 - https://twitter.com/duclairdeugoue
-- https://facebook.com/duclairdeugoue
+- https://facebook.com/duclair.deugoue
 
 ## 
 
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
