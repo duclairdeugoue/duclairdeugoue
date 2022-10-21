@@ -16,7 +16,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 ## Frameworks
 
 - Bootstrap 3,4,5
-- Angular 14
+- Angular > 10
 - Django 4
 - Springboot
 
