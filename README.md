@@ -24,15 +24,15 @@ I'am a Cameroonian and also a Junior Web Developer with some years of experience
 - https://facebook.com/duclair.deugoue
 
 ## Activities
-<div align=left>
+<span align=left>
   
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
-</div>
+</span>
 
-<div align=right>
+<span align=right>
   
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical)
-</div>
+</span>
 
 
 
