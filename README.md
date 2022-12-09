@@ -28,7 +28,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Developer path
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue) 
+<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue) --->
 
 Statistics | Languages
 -----------| -----
