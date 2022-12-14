@@ -32,5 +32,5 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 Statistics | Languages
 -----------| -----
-![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclairdeugoue&layout=compact)
+![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=duclairdeugoue&show_icons=true&theme=radical) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclairdeugoue&layout=compact)
 
