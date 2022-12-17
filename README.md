@@ -1,6 +1,6 @@
 # Hi there am duclairdeugoue 👋
 
-I'am a **Cameroonian** and also a Junior Web Developer with some years of experience. I am currently working on Django Framework for building Backend applications and Web APIs. 
+I'am a **Cameroonian** and also a Junior Web Developer with some years of experience. I am currently working on Front end mentor for building Frontends UIs  and Websites. 
 
 
 ## Programming Languages
