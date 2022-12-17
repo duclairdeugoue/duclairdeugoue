@@ -26,9 +26,9 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Social media links
 
-- ###  [Twitter](https://twitter.com/duclairdeugoue) 
+- [twitter](https://twitter.com/duclairdeugoue) 
 
-- ### [Facebook](https://facebook.com/duclair.deugoue)
+- [facebook](https://facebook.com/duclair.deugoue)
 
 ## Developer path
 
