@@ -30,7 +30,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 - [facebook](https://facebook.com/duclair.deugoue)
 
-## Developer path
+## Developer stats
 
 <!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue) --->
 
