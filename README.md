@@ -5,12 +5,12 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Programming Languages
 
-- HTML5
-- CSS3
-- Javascript (es6)
-- PHP
+- HTML 5
+- CSS 3
+- Javascript (ES6)
+- PHP 7 or greater
 - MySQL
-- Python
+- Python 3
 - jQuery
 
 ## Frameworks
@@ -19,6 +19,10 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 - Angular >=10
 - Django 4
 - Springboot
+- Codeigniter 4
+
+## Projects links
+- [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
 
 ## Social media links
 
