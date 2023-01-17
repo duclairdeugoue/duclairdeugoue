@@ -38,10 +38,10 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Other Technologies
 <p>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-  <img src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
+  <img width="80px" height="35px" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img width="80px" height="35px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+  <img width="80px" height="35px" src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
+  <img width="80px" height="35px" src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
 <!--   <img src=""/> -->
 </p>
 
