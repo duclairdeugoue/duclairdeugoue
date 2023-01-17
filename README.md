@@ -3,23 +3,18 @@
 I'am a **Cameroonian** and also a Junior Web Developer with some years of experience. I am currently working on Frontend mentor challenges for building frontends UIs  and websites. 
 
 
-## Programming Languages
+## Frontend Technologies
 
-- HTML 5
-- CSS 3
-- Javascript (ES6)
-- PHP 7 or greater
+- HTML5
+- CSS3, Sass, Bootstrap 3,4,5
+- Vanilla Javascript, jQuery, Ajax, Webpack, React, Angular
+
+## Backend Technologies
+
+- PHP, CodeIgniter4
+- Python3, Django
+- Java, Springboot
 - MySQL
-- Python 3
-- jQuery
-
-## Frameworks
-
-- Bootstrap 3,4,5
-- Angular >=10
-- Django 4
-- Springboot
-- Codeigniter 4
 
 ## Projects links
 - [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
