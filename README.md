@@ -8,6 +8,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
   <img src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
@@ -27,10 +28,8 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
     <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
     <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=yellow"/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
+    <img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
     <img src=""/>
     <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
