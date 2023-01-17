@@ -6,15 +6,15 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 ## Frontend Technologies
 
 <p>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img width="90px" height="35px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
 <!--   <img src="https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vuejs"/> -->
 </p>
 
@@ -25,23 +25,23 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 ## Backend Technologies
 
 <p>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-    <img width="100px" height="35px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+    <img width="99px" height="40px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 
 </p>
 
 ## Other Technologies
 <p>
-  <img width="80px" height="35px" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img width="80px" height="35px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-  <img width="80px" height="35px" src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
-  <img width="80px" height="35px" src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
+  <img width="60px" height="30px" src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
 <!--   <img src=""/> -->
 </p>
 
