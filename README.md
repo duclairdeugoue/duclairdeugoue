@@ -10,6 +10,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack"/>
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
   <img src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
@@ -24,16 +25,15 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 ## Backend Technologies
 
 <p>
-<!--     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
     <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-    <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
     <img src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
-    <img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
-    <img src=""/>
-    <img src=""/>
     <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
+    <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
+    <!-- <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
+    <img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+
 </p>
 
 ## Other Technologies
@@ -41,8 +41,8 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
   <img src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Github_Pages-back?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
-  <img src=""/>
+  <img src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
+<!--   <img src=""/> -->
 </p>
 
 <!-- 
