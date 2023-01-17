@@ -27,7 +27,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
     <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
     <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
-    <img src=""/>
+    <img src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=yellow"/>
     <img src=""/>
     <img src=""/>
     <img src=""/>
