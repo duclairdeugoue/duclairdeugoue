@@ -5,7 +5,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Frontend Technologies
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -22,7 +22,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
  -->
 ## Backend Technologies
 
-<p align="center">
+<p>
 <!--     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
     <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
@@ -30,7 +30,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 </p>
 
 ## Other Technologies
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
