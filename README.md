@@ -26,13 +26,13 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 <p>
     <img width="100px" height="35px" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
-    <img width="110px" height="35px" src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
+    <img width="100px" height="35px" src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
     <img width="100px" height="35px" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
     <img width="100px" height="35px" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
     <img width="100px" height="35px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
     <img width="100px" height="35px" src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
-    <img width="105px" height="35px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-    <img width="105px" height="35px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+    <img width="100px" height="35px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+    <img width="100px" height="35px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 
 </p>
 
