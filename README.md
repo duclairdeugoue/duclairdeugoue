@@ -5,16 +5,41 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Frontend Technologies
 
-- HTML5
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
+  <img src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
+<!--   <img src="https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vuejs"/> -->
+</p>
+
+<!-- - HTML5
 - CSS3, Sass, Bootstrap 3,4,5
 - Vanilla Javascript, jQuery, Ajax, Webpack, React, Angular
-
+ -->
 ## Backend Technologies
 
+<p align="center">
+<!--     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
+    <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+</p>
+
+## Other Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+</p>
+
+<!-- 
 - PHP, CodeIgniter4
 - Python3, Django
 - Java, Springboot
-- MySQL
+- MySQL -->
 
 ## Projects links
 - [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
