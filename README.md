@@ -31,6 +31,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
     <img src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
     <img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
     <img src=""/>
+    <img src=""/>
     <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
@@ -39,6 +40,9 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 <p>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+  <img src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Github_Pages-back?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
+  <img src=""/>
 </p>
 
 <!-- 
