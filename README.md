@@ -26,6 +26,12 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 <!--     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
     <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+    <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
+    <img src=""/>
+    <img src=""/>
+    <img src=""/>
+    <img src=""/>
+    <img src=""/>
     <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
