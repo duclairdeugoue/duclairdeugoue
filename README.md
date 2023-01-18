@@ -6,15 +6,15 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 ## Frontend Technologies
 
 <p>
-  <img height="40px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img height="40px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img height="40px" src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
-  <img height="40px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img height="40px" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack"/>
-  <img height="40px" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
-  <img height="40px" src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
-  <img height="40px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img height="40px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
+  <img height="30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img height="30px" src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
+  <img height="30px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img height="30px" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack"/>
+  <img height="30px" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
+  <img height="30px" src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
+  <img height="30px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img height="30px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
 <!--   <img src="https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vuejs"/> -->
 </p>
 
