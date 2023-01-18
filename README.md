@@ -29,7 +29,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
     <img height="30px" src="https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=red"/>
     <img height="30px" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python&logoColor=yellow"/>
     <img height="30px" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=blue"/>
-    <img height="30px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<!--     <img height="30px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
     <img height="30px" src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot&logoColor=green"/>
     <img height="30px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
     <img height="30px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
