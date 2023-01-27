@@ -53,7 +53,7 @@ I'am a **Cameroonian** and also a Junior Web Developer with some years of experi
 
 ## Projects links
 - [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
-- [newapp homepage](https://duclairdeugoue.github.io/fmc-news-homepage/)
+- [newsapp-homepage](https://duclairdeugoue.github.io/fmc-news-homepage/)
 
 ## Social media links
 
