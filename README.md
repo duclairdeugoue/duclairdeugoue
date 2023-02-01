@@ -1,6 +1,6 @@
 # Hi there am duclairdeugoue 👋
 
-I'am a **Cameroonian** and also a Junior Web Developer with some years of experience. I am currently working on CodeIgniter 4 and Frontend Mentor challenges for building frontends UIs  and websites. 
+I'am a **Cameroonian** and also a Junior FullStack Web Developer with some years of experience. I am currently working on CodeIgniter 4 and Frontend Mentor challenges for building frontends UIs  and websites. 
 
 
 ## Frontend Technologies
