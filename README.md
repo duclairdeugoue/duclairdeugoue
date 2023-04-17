@@ -44,7 +44,7 @@ I'am a **Cameroonian** and also a  FullStack Web Developer with 3+ years of expe
   <img height="30px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
   <img height="30px" src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
   <img height="30px" src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
-<!--   <img src=""/> -->
+<!--  
 </p>
 -->
 <!-- 
@@ -63,9 +63,6 @@ I'am a **Cameroonian** and also a  FullStack Web Developer with 3+ years of expe
 
 - [facebook](https://facebook.com/duclair.deugoue)
 -->
-
-## Developer stats
-<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue) --->
 
 Statistics | Languages
 -----------| -----
