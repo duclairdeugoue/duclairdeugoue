@@ -1,12 +1,12 @@
 # Hi there am duclairdeugoue 👋
 
-I'am a **Cameroonian** and also a Junior FullStack Web Developer with 3 years of experience. I am currently working on ALX SE and Frontend Mentor challenges for building frontends UIs  and websites. 
+I'am a **Cameroonian** and also a  FullStack Web Developer with 3+ years of experience. I am currently working on ALX SE and Frontend Mentor challenges for building frontends UIs  and websites. 
 
-
+<!--
 ## Frontend Technologies
-
+-->
 <p>
-  <img height="30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <!-- <img height="30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
   <img height="30px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img height="30px" src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=blueviolet"/>
   <img height="30px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -14,7 +14,7 @@ I'am a **Cameroonian** and also a Junior FullStack Web Developer with 3 years of
   <img height="30px" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
   <img height="30px" src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
   <img height="30px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img height="30px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
+  <img height="30px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/> -->
 <!--   <img src="https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vuejs"/> -->
 </p>
 
@@ -22,6 +22,7 @@ I'am a **Cameroonian** and also a Junior FullStack Web Developer with 3 years of
 - CSS3, Sass, Bootstrap 3,4,5
 - Vanilla Javascript, jQuery, Ajax, Webpack, React, Angular
  -->
+ <!--
 ## Backend Technologies
 
 <p>
@@ -35,7 +36,8 @@ I'am a **Cameroonian** and also a Junior FullStack Web Developer with 3 years of
     <img height="30px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 
 </p>
-
+-->
+<!--
 ## Other Technologies
 <p>
   <img height="30px" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
@@ -44,13 +46,13 @@ I'am a **Cameroonian** and also a Junior FullStack Web Developer with 3 years of
   <img height="30px" src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
 <!--   <img src=""/> -->
 </p>
-
+-->
 <!-- 
 - PHP, CodeIgniter4
 - Python3, Django
 - Java, Springboot
 - MySQL -->
-
+<!--
 ## Projects links
 - [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
 - [newsapp-homepage](https://duclairdeugoue.github.io/fmc-news-homepage/)
@@ -60,9 +62,9 @@ I'am a **Cameroonian** and also a Junior FullStack Web Developer with 3 years of
 - [twitter](https://twitter.com/duclairdeugoue) 
 
 - [facebook](https://facebook.com/duclair.deugoue)
+-->
 
 ## Developer stats
-
 <!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duclairdeugoue) --->
 
 Statistics | Languages
