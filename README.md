@@ -1,6 +1,6 @@
 # Hi there am duclairdeugoue 👋
 
-I'am a **Cameroonian** and also a  FullStack Web Developer with 3+ years of experience. I am currently working on ALX SE and Frontend Mentor challenges for building frontends UIs  and websites. 
+I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learning Artificial Intelligence and Machine Learning. 
 
 <!--
 ## Frontend Technologies
