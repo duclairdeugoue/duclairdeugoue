@@ -2,7 +2,7 @@
 
 I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learning Artificial Intelligence and Machine Learning. 
 
-<!--
+
 ## Frontend Technologies
 
 <p>
@@ -17,12 +17,12 @@ I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learn
   <img height="30px" src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
   <img src="https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vuejs"/>
 </p>
--->
+
 <!-- - HTML5
 - CSS3, Sass, Bootstrap 3,4,5
 - Vanilla Javascript, jQuery, Ajax, Webpack, React, Angular
  -->
- <!--
+ 
 ## Backend Technologies
 
 <p>
@@ -36,33 +36,27 @@ I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learn
     <img height="30px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 
 </p>
--->
-<!--
+
+
 ## Other Technologies
 <p>
   <img height="30px" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img height="30px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
   <img height="30px" src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=vercel&logoColor=black"/>
   <img height="30px" src="https://img.shields.io/badge/-Github_Pages-black?style=flat-square&logo=githubpages&logoColor=blueviolet"/>
-<!--  
+  
 </p>
--->
+
 <!-- 
 - PHP, CodeIgniter4
 - Python3, Django
 - Java, Springboot
 - MySQL -->
-<!--
+
 ## Projects links
 - [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
 - [newsapp-homepage](https://duclairdeugoue.github.io/fmc-news-homepage/)
 
-## Social media links
-
-- [twitter](https://twitter.com/duclairdeugoue) 
-
-- [facebook](https://facebook.com/duclair.deugoue)
--->
 
 Statistics | Languages
 -----------| -----
