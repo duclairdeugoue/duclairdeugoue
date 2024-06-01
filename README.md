@@ -47,6 +47,9 @@ I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learn
   
 </p>
 
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duclairdeugoue&theme=algolia" alt="DEUGOUE DUCLAIR" /></p>
+
 <!-- 
 - PHP, CodeIgniter4
 - Python3, Django
