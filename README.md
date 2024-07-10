@@ -48,7 +48,7 @@ I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learn
 </p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duclairdeugoue&theme=algolia" alt="DEUGOUE DUCLAIR" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duclairdeugoue&theme=algolia" alt="DEUGOUE DUCLAIR" /></p> -->
 
 <!-- 
 - PHP, CodeIgniter4
@@ -56,7 +56,7 @@ I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learn
 - Java, Springboot
 - MySQL -->
 
-## Projects links
+<!-- ## Projects links
 - [moviereviews](https://duclairdeugoue.pythonanywhere.com/)
 - [newsapp-homepage](https://duclairdeugoue.github.io/fmc-news-homepage/)
 
@@ -64,4 +64,4 @@ I'am a **Cameroonian** and also a  FullStack Web Developer. I am currently learn
 Statistics | Languages
 -----------| -----
 ![duclairdeugoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=duclairdeugoue&show_icons=true&theme=radical) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclairdeugoue&langs_count=8&layout=compact)
-
+-->
